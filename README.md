@@ -1,169 +1,90 @@
-```
-░██████╗░█████╗░██╗  ░██████╗░█████╗░██╗██╗░░░░░
-██╔════╝██╔══██╗██║  ██╔════╝██╔══██╗██║██║░░░░░
-╚█████╗░███████║██║  ╚█████╗░███████║██║██║░░░░░
-░╚═══██╗██╔══██║██║  ░╚═══██╗██╔══██║██║██║░░░░░
-██████╔╝██║░░██║██║  ██████╔╝██║░░██║██║███████╗
-╚═════╝░╚═╝░░╚═╝╚═╝  ╚═════╝░╚═╝░░╚═╝╚═╝╚══════╝
-```
+<h1 align="center">Hi 👋, I'm Sahil Saini</h1>
+<h3 align="center">🤖 AI/ML Student | Building & Deploying Real-World ML Applications</h3>
 
-<div align="center">
-
-```bash
-$ whoami
-> sahil-saini
-$ cat about.txt
-```
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   NAME     : Sahil Saini                           │
-│   ROLE     : AI/ML Engineer in Training            │
-│   SCHOOL   : GGSIPU, Delhi — B.Tech AI/ML '28     │
-│   STATUS   : Actively seeking internships          │
-│   LOCATION : Delhi, India 🇮🇳                      │
-│   MISSION  : Build. Deploy. Repeat.                │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Sahil-Dev404&color=00ff00&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Sahil-Dev404)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Dev404&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-```bash
-$ ls -la skills/
-```
+### 🧠 About Me
 
-```
-drwxr-xr-x  languages/
-drwxr-xr-x  ml_frameworks/
-drwxr-xr-x  data_tools/
-drwxr-xr-x  deployment/
-```
-
-```bash
-$ cat skills/languages.txt
-```
-![Python](https://img.shields.io/badge/Python-00ff00?style=flat-square&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00ff00?style=flat-square&logo=cplusplus&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-00ff00?style=flat-square&logo=mysql&logoColor=black)
-
-```bash
-$ cat skills/ml_frameworks.txt
-```
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-00ff00?style=flat-square&logo=scikit-learn&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00ff00?style=flat-square&logo=tensorflow&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-00ff00?style=flat-square&logo=keras&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-00ff00?style=flat-square&logoColor=black)
-![CatBoost](https://img.shields.io/badge/CatBoost-00ff00?style=flat-square&logoColor=black)
-
-```bash
-$ cat skills/deployment.txt
-```
-![Flask](https://img.shields.io/badge/Flask-00ff00?style=flat-square&logo=flask&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-00ff00?style=flat-square&logo=streamlit&logoColor=black)
-![Render](https://img.shields.io/badge/Render-00ff00?style=flat-square&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-00ff00?style=flat-square&logo=git&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-00ff00?style=flat-square&logo=dvc&logoColor=black)
+- 🎓 2nd-year B.Tech student in **Artificial Intelligence & Machine Learning** at GGSIPU, Delhi (2024–2028)
+- 🚀 I build and **deploy end-to-end ML applications** — not just notebooks
+- 🔭 Currently working on expanding into **NLP and GenAI projects**
+- 💡 I care about writing **modular, production-grade ML code** with real pipelines
+- 📫 Reach me at **2005sahilsaini@gmail.com**
+- ⚡ Fun fact: I had 3 live ML apps deployed before finishing my 2nd year
 
 ---
 
-```bash
-$ ls projects/ --sort=date
-```
+### 🔗 Connect With Me
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  PROJECT                    STATUS       TECH              R²/ACC    │
-├──────────────────────────────────────────────────────────────────────┤
-│  student-performance-pred   [DEPLOYED]   Flask+CatBoost    0.88      │
-│  forest-fire-predictor      [DEPLOYED]   Flask+Ridge       0.9842    │
-│  customer-churn-ann         [DEPLOYED]   TF+Keras+Stream   88.65%    │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-```bash
-$ cat projects/student-performance-predictor.log
-```
-> 📁 [GitHub](https://github.com/Sahil-Dev404/End-to-End-Student-Performance-Indicator) · 🌐 [Live Demo](https://end-to-end-student-performance-indicator.onrender.com)
-> Trained on 1,000 records · 9 models benchmarked · R² = 0.88 · Deployed on Render
-
-```bash
-$ cat projects/forest-fire-predictor.log
-```
-> 📁 [GitHub](https://github.com/Sahil-Dev404/forest-fire-ml) · 🌐 [Live Demo](https://forest-fire-ml-2.onrender.com/)
-> 246 meteorological records · 4 regression models · R² = 0.9842 · MAE = 0.5642
-
-```bash
-$ cat projects/customer-churn-ann.log
-```
-> 📁 [GitHub](https://github.com/Sahil-Dev404/Customer-Churn-Ann-streamlit) · 🌐 [Live Demo](https://customer-churn-ann-app.streamlit.app/)
-> 10,000 records · ANN (64→32→1) · Early stopping · Accuracy = 88.65%
+<p align="left">
+<a href="https://www.linkedin.com/in/sahil-saini-a47b40324" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Sahil-Dev404" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:2005sahilsaini@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-```bash
-$ cat certifications.txt
-```
+### 🛠️ Tech Stack
 
-```
-[✓] Data Science, ML, Deep Learning & NLP Bootcamp
-    └── Udemy | Krish Naik | May 2026
+**Languages**
 
-[✓] AI Fluency for Students
-    └── Certified by Anthropic | March 2026
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+**ML / DL**
 
-```bash
-$ ./github-stats.sh Sahil-Dev404
-```
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FAD?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
 
-<div align="center">
+**Data & Analysis**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahil-Dev404&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Dev404&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="48%" />
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Dev404&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00" width="48%" />
+**Frameworks & Deployment**
 
-</div>
-
----
-
-```bash
-$ cat activity.log | grep "contribution-graph"
-```
-
-<div align="center">
-
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Dev404&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/Sahil-Dev404)
-
-</div>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 
 ---
 
-```bash
-$ ping sahil --connect
-```
+### 🚀 Featured Projects
 
-```
-> LinkedIn  : https://www.linkedin.com/in/sahil-saini-a47b40324
-> GitHub    : https://github.com/Sahil-Dev404
-> Email     : 2005sahilsaini@gmail.com
-```
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| 🎓 [Student Performance Predictor](https://github.com/Sahil-Dev404/End-to-End-Student-Performance-Indicator) | Predicts student math scores from 1,000 records. Benchmarked 9 models, R² = 0.88 | Flask, Scikit-learn, CatBoost, Render | [Demo](https://end-to-end-student-performance-indicator.onrender.com) |
+| 🔥 [Forest Fire Prediction System](https://github.com/Sahil-Dev404/forest-fire-ml) | Predicts Forest Fire Weather Index from 246 meteorological records. Ridge Regression, R² = 0.9842 | Flask, Scikit-learn, DVC, Render | [Demo](https://forest-fire-ml-2.onrender.com/) |
+| 📉 [Customer Churn Prediction (ANN)](https://github.com/Sahil-Dev404/Customer-Churn-Ann-streamlit) | Binary classification ANN on 10,000 records, 88.65% accuracy. 3-layer architecture (64→32→1) | TensorFlow, Keras, Streamlit | [Demo](https://customer-churn-ann-app.streamlit.app/) |
 
 ---
 
-<div align="center">
+### 📜 Certifications
 
-```bash
-$ echo "Thanks for visiting. Let's build something together."
-> Thanks for visiting. Let's build something together.
-```
+- 🏅 **Data Science, ML, Deep Learning & NLP Bootcamp** — Udemy | Krish Naik (May 2026)
+- 🤖 **AI Fluency for Students** — Certified by Anthropic (March 2026)
 
-</div>
+---
+
+<p align="center">
+  <i>"Build things. Deploy them. Repeat."</i>
+</p>
