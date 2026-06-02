@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Saini;AI+%2F+ML+Engineer+in+Training;3+Deployed+ML+Applications;Building+Real+Things%2C+Not+Just+Notebooks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Saini;AI+%2F+ML+Engineer+in+Training;3+Deployed+ML+Applications;Building+Real+Things%2C+Not+Just+Notebooks" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🤖 AI/ML Student | Building & Deploying Real-World ML Applications</h3>
