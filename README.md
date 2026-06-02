@@ -8,15 +8,6 @@
 </p>
 ---
 
-<h1 align="center">Hi 👋, I'm Sahil Saini</h1>
-<h3 align="center">🤖 AI/ML Student | Building & Deploying Real-World ML Applications</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahil-Dev404&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 ### 🧠 About Me
 
 - 🎓 2nd-year B.Tech student in **Artificial Intelligence & Machine Learning** at GGSIPU, Delhi (2024–2028)
