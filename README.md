@@ -1,7 +1,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Saini;AI+%2F+ML+Engineer+in+Training;3+Deployed+ML+Applications;Building+Real+Things%2C+Not+Just+Notebooks" alt="Typing SVG" />
 </h1>
+<h3 align="center">🤖 AI/ML Student | Building & Deploying Real-World ML Applications</h3>
+ 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Dev404&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+---
 
+<h1 align="center">Hi 👋, I'm Sahil Saini</h1>
 <h3 align="center">🤖 AI/ML Student | Building & Deploying Real-World ML Applications</h3>
 
 <p align="center">
@@ -18,14 +25,6 @@
 - 💡 I care about writing **modular, production-grade ML code** with real pipelines
 - 📫 Reach me at **2005sahilsaini@gmail.com**
 - ⚡ Fun fact: I had 3 live ML apps deployed before finishing my 2nd year
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Dev404&theme=flat&no-frame=true&row=1&column=6&margin-w=10" alt="trophies" />
-</p>
 
 ---
 
@@ -86,33 +85,6 @@
 | 🎓 [Student Performance Predictor](https://github.com/Sahil-Dev404/End-to-End-Student-Performance-Indicator) | Predicts student math scores from 1,000 records. Benchmarked 9 models, R² = 0.88 | Flask, Scikit-learn, CatBoost, Render | [Demo](https://end-to-end-student-performance-indicator.onrender.com) |
 | 🔥 [Forest Fire Prediction System](https://github.com/Sahil-Dev404/forest-fire-ml) | Predicts Forest Fire Weather Index from 246 meteorological records. Ridge Regression, R² = 0.9842 | Flask, Scikit-learn, DVC, Render | [Demo](https://forest-fire-ml-2.onrender.com/) |
 | 📉 [Customer Churn Prediction (ANN)](https://github.com/Sahil-Dev404/Customer-Churn-Ann-streamlit) | Binary classification ANN on 10,000 records, 88.65% accuracy. 3-layer architecture (64→32→1) | TensorFlow, Keras, Streamlit | [Demo](https://customer-churn-ann-app.streamlit.app/) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Dev404&show_icons=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Dev404&hide_border=true&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Dev404&layout=compact&hide_border=true&title_color=0077B5" width="48%" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Dev404&bg_color=ffffff&color=0077B5&line=0077B5&point=0077B5&area=true&area_color=cce5ff&hide_border=true)](https://github.com/Sahil-Dev404)
-
----
-
-### 🐍 Contribution Snake
-
-![snake](https://github.com/Sahil-Dev404/Sahil-Dev404/blob/output/github-contribution-grid-snake.svg)
-
-> ⚙️ To activate the snake: create `.github/workflows/snake.yml` in this repo with the snake GitHub Action (see setup instructions below)
 
 ---
 
