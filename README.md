@@ -77,6 +77,8 @@
 | 📉 [Customer Churn Prediction (ANN)](https://github.com/Sahil-Dev404/Customer-Churn-Ann-streamlit) | Binary classification ANN on 10,000 records, 88.65% accuracy. 3-layer architecture (64→32→1) | TensorFlow, Keras, Streamlit | [Demo](https://customer-churn-ann-app.streamlit.app/) |
 
 ---
+[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Dev404&bg_color=ffffff&color=0077B5&line=0077B5&point=0077B5&area=true&area_color=cce5ff&hide_border=true)](https://github.com/Sahil-Dev404)
+---
 
 ### 📜 Certifications
 
