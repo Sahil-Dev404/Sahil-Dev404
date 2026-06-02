@@ -4,7 +4,7 @@
 <h3 align="center">🤖 AI/ML Student | Building & Deploying Real-World ML Applications</h3>
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahil-Dev404&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Sahil-Dev404&color=0077B5&style=flat-square&label=Profile+Views)
 </p>
 
 
