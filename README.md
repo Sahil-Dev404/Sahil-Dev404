@@ -85,27 +85,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Dev404&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Dev404&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Dev404&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Dev404&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <p align="center">
   <i>"Build things. Deploy them. Repeat."</i>
 </p>
