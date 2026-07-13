@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🎓 2nd-year B.Tech student in **Artificial Intelligence & Machine Learning** at GGSIPU, Delhi (2024–2028)
+- 🎓 3rd-year B.Tech student in **Artificial Intelligence & Machine Learning** at GGSIPU, Delhi (2024–2028)
 - 🚀 I build and **deploy end-to-end ML applications** — not just notebooks
 - 🔭 Currently working on expanding into **NLP and GenAI projects**
 - 💡 I care about writing **modular, production-grade ML code** with real pipelines
