@@ -82,7 +82,7 @@
 
 ### 📜 Certifications
 
-- 🏅 **Data Science, ML, Deep Learning & NLP Bootcamp** — Udemy | Krish Naik (May 2026)
+- 🏅 **Data Science, ML, Deep Learning & NLP Bootcamp** — Udemy (May 2026)
 - 🤖 **AI Fluency for Students** — Certified by Anthropic (March 2026)
 
 ---
